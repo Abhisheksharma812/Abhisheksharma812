@@ -1,84 +1,57 @@
-# Hi there, I'm Abhisheksharma812! 👋
+# Hello 👋, I'm Abhishek sharma
+### ### Software Developer | Java Backend | DSA Enthusiast | Clean Code Advocate
 
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/212085642?v=4" alt="Abhisheksharma812" width="200" height="200" style="border-radius: 50%; border: 4px solid #000000;" />
-</div>
+Hi, I'm **Abhishek Sharma** — a passionate developer who loves building real-world projects and solving complex problems through code.
 
-## 🚀 About Me
+- 🎯 Currently diving deep into **Data Structures & Algorithms** using Java  
+- 💡 Exploring **Backend Development**, **Java Collections Framework**, and **System Design**  
+- 🌱 Learning one step at a time — from **Core Java** to **Real-world Projects**  
+- 💻 I believe in learning by doing — check out my repositories to see what I’m working on  
+- 🤝 Open to collaborating on exciting projects and learning opportunities
 
-> Passionate developer building amazing things with code!
+## Contact Me
+<p><a href="www.linkedin.com/in/abhisheksh08" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://x.com/Abhishe26187524" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?&style=flat-square&logo=x&logoColor=white" alt="X"></a> </p>
 
-- 🔭 I'm currently working on **exciting projects**
-- 🌱 I'm always **learning and growing** in technology
-- 👯 I'm looking to **collaborate** on innovative ideas
-- 💬 Ask me about ****
-- 📫 How to reach me: **[@Abhisheksharma812](https://github.com/Abhisheksharma812)**
-- ⚡ Fun fact: **I have 1 public repositories with 0 total stars!**
+## Skills
 
-## 🛠️ Tech Stack & Tools
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
+<img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="c" width="40" height="40"/>&nbsp;
+<img src="https://img.shields.io/badge/Data%20Structures-%2300C7B7.svg?style=flat-square" alt="data structures" width="40" height="40"/>&nbsp;
+<img src="https://img.shields.io/badge/Algorithms-%2300C7B7.svg?style=flat-square" alt="algorithms" width="40" height="40"/>&nbsp;
+<img src="https://img.shields.io/badge/OOP-%23F18E33.svg?style=flat-square" alt="oop" width="40" height="40"/>&nbsp;
+<img src="https://img.shields.io/badge/Problem%20Solving-%23FFB347.svg?style=flat-square" alt="problem solving" width="40" height="40"/>&nbsp;
+<img src="https://img.shields.io/badge/IntelliJIDEA-%23000000.svg?style=flat-square&logo=intellij-idea&logoColor=white" alt="intellij idea" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>&nbsp;
+<img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white" alt="spring boot" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>&nbsp;
+<img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white" alt="vs code" width="40" height="40"/>&nbsp;
+<img src="https://img.shields.io/badge/Machine%20Learning-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" alt="machine learning" width="40" height="40"/>&nbsp;
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-%230089C6.svg?style=flat-square&logo=openai&logoColor=white" alt="artificial intelligence" width="40" height="40"/>&nbsp;
+</p>
 
-<div align="center">
+## GitHub Stats
 
+<img src="https://github-readme-stats.vercel.app/api?username=Abhisheksharma812&show_icons=true&count_private=true&theme=null" alt="GitHub İstatistikleri" />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisheksharma812&layout=compact&theme=null" alt="En Çok Kullanılan Diller" />
 
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhisheksharma812&theme=null" alt="GitHub Streak" />
 
-## 📊 GitHub Statistics
+<img src="https://profile-counter.glitch.me/Abhisheksharma812/count.svg?" alt="visitors count" />
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhisheksharma812&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisheksharma812&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=000000&text_color=ffffff&title_color=ffffff"/>
-</div>
+## GitHub Trophies
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhisheksharma812&theme=dark&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=Abhisheksharma812" alt="trophy" />
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhisheksharma812&theme=high-contrast&hide_border=true&bg_color=000000&color=ffffff&line=ffffff&point=ffffff" alt="GitHub Activity Graph" />
-</div>
+## GitHub Activity Graph
 
-## 🏆 Featured Projects
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhisheksharma812&radius=16&theme=xcode&area=true&order=5" height="300" alt="activity-graph" />
 
-### 🎯 [Abhisheksharma812](https://github.com/Abhisheksharma812/Abhisheksharma812)
-
-> No description available
-
-<div align="left">
-  
-![Stars](https://img.shields.io/github/stars/Abhisheksharma812/Abhisheksharma812?style=social) 
-![Forks](https://img.shields.io/github/forks/Abhisheksharma812/Abhisheksharma812?style=social) 
-
-
-</div>
-
-## 📈 Profile Statistics
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Abhisheksharma812&label=Profile%20views&color=000000&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/Abhisheksharma812?label=Followers&style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/Abhisheksharma812?label=Stars&style=social)
-
-</div>
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhisheksharma812)
-
-
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=000000&text_color=ffffff)
-
-**⭐ Star some repositories if you find them interesting!**
-
-</div>
