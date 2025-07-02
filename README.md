@@ -28,7 +28,12 @@ Hi, I'm **Abhishek Sharma** — a passionate developer who loves building real-w
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
-
+<img src="https://img.shields.io/badge/Data%20Structures-%2300C7B7.svg?style=flat-square" alt="Data Structures"/>
+  <img src="https://img.shields.io/badge/Algorithms-%2300C7B7.svg?style=flat-square" alt="Algorithms"/>
+  <img src="https://img.shields.io/badge/OOP-%23F18E33.svg?style=flat-square" alt="OOP"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-%23FFB347.svg?style=flat-square" alt="Problem Solving"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-%230089C6.svg?style=flat-square&logo=openai&logoColor=white" alt="AI"/>
 </p>
 
 ## GitHub Stats
